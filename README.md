@@ -1,4 +1,4 @@
-A Coding CTF Challend By Tristan Hilbert
+A Coding CTF Challenge By Tristan Hilbert
 11/10/18
 
 ## Challenge
